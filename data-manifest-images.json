@@ -1,0 +1,1157 @@
+{
+ "p15_x3080_1920x1080.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/02-wide.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/02-wide-sm.jpg",
+  "w": 1920,
+  "h": 1080,
+  "alt": "Showroom wide view — marble walls, seating rows and yellow accent wall"
+ },
+ "p02_x2647_600x768.jpg": {
+  "src": "assets/portrait.jpg",
+  "sm": "assets/portrait-sm.jpg",
+  "w": 600,
+  "h": 768,
+  "alt": "Portrait of Aya Laarej, interior architect and furniture designer"
+ },
+ "p01_x1860_516x687.jpg": {
+  "src": "assets/sketch-cover.jpg",
+  "sm": "assets/sketch-cover-sm.jpg",
+  "w": 516,
+  "h": 687,
+  "alt": "Black and white architectural perspective sketch by Aya Laarej"
+ },
+ "p06_x2692_1107x780.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/01-hero.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/01-hero-sm.jpg",
+  "w": 1107,
+  "h": 780,
+  "alt": "Le Refuge Intellectuel — main coworking hall render with desks and pendant lighting"
+ },
+ "p10_x2964_1196x842.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/02-accueil.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/02-accueil-sm.jpg",
+  "w": 1196,
+  "h": 842,
+  "alt": "Reception area of Le Refuge Intellectuel with timber slat wall and grid ceiling"
+ },
+ "p10_x2967_1196x842.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/03-cafe.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/03-cafe-sm.jpg",
+  "w": 1196,
+  "h": 842,
+  "alt": "Café corner of Le Refuge Intellectuel with green banquette and pendant lights"
+ },
+ "p11_x2977_581x434.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/04-collectif.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/04-collectif-sm.jpg",
+  "w": 581,
+  "h": 434,
+  "alt": "Collective work zone with city view at dusk, Le Refuge Intellectuel"
+ },
+ "p11_x2980_1016x744.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/05-lounge.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/05-lounge-sm.jpg",
+  "w": 1016,
+  "h": 744,
+  "alt": "Reading lounge with curved green sofa and mezzanine library"
+ },
+ "p11_x2983_720x538.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/06-modulable.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/06-modulable-sm.jpg",
+  "w": 720,
+  "h": 538,
+  "alt": "Modular collaborative space with curved desk and 'Think. Create. Repeat.' wall"
+ },
+ "p12_x4439_887x639.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/07-individuel.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/07-individuel-sm.jpg",
+  "w": 887,
+  "h": 639,
+  "alt": "Individual work booth with dark wood panelling and green cushions"
+ },
+ "p12_x4442_896x633.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/08-partitions.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/08-partitions-sm.jpg",
+  "w": 896,
+  "h": 633,
+  "alt": "Individual workspace with curved white partitions and green screens"
+ },
+ "p12_x4445_1107x780.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/09-library.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/09-library-sm.jpg",
+  "w": 1107,
+  "h": 780,
+  "alt": "Library reading nook with tall dark bookshelves"
+ },
+ "p07_x2703_216x270.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m01.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m01-sm.jpg",
+  "w": 216,
+  "h": 270,
+  "alt": "Mood reference — grand library interior"
+ },
+ "p07_x2739_221x297.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m02.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m02-sm.jpg",
+  "w": 221,
+  "h": 297,
+  "alt": "Mood reference — lounge with green seating and globe lights"
+ },
+ "p07_x2721_360x203.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m03.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m03-sm.jpg",
+  "w": 360,
+  "h": 203,
+  "alt": "Mood reference — meeting room with green carpet"
+ },
+ "p07_x2727_400x532.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m04.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m04-sm.jpg",
+  "w": 400,
+  "h": 532,
+  "alt": "Mood reference — study area with green metal shelving"
+ },
+ "p07_x1917_480x576.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m05.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m05-sm.jpg",
+  "w": 480,
+  "h": 576,
+  "alt": "Green glass console table study"
+ },
+ "p07_x1922_368x460.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m06.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m06-sm.jpg",
+  "w": 368,
+  "h": 460,
+  "alt": "Green velvet armchair study"
+ },
+ "p07_x1926_432x432.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m07.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m07-sm.jpg",
+  "w": 432,
+  "h": 432,
+  "alt": "Translucent wavy pendant light study"
+ },
+ "p07_x1927_231x308.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m08.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m08-sm.jpg",
+  "w": 231,
+  "h": 308,
+  "alt": "Green dome table lamp with brass base"
+ },
+ "p07_x2709_324x399.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m09.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m09-sm.jpg",
+  "w": 324,
+  "h": 399,
+  "alt": "Editorial reference — green curved sofas in a bright room"
+ },
+ "p07_x2718_148x221.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m10.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m10-sm.jpg",
+  "w": 148,
+  "h": 221,
+  "alt": "Light study — striped shadows on a sunny floor"
+ },
+ "p07_x4245_342x342.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-walnut.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-walnut-sm.jpg",
+  "w": 342,
+  "h": 342,
+  "alt": "Material — dark walnut wood grain"
+ },
+ "p07_x2715_248x126.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-terrazzo.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-terrazzo-sm.jpg",
+  "w": 248,
+  "h": 126,
+  "alt": "Material — bluegum terrazzo"
+ },
+ "p07_x2706_368x491.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-glassblock.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-glassblock-sm.jpg",
+  "w": 368,
+  "h": 491,
+  "alt": "Material — green glass blocks"
+ },
+ "p07_x2712_240x240.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-tiles.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-tiles-sm.jpg",
+  "w": 240,
+  "h": 240,
+  "alt": "Material — green oval tiles"
+ },
+ "p07_x2747_288x432.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-brass.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-brass-sm.jpg",
+  "w": 288,
+  "h": 432,
+  "alt": "Material — brushed brass"
+ },
+ "p07_x2750_304x304.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-carpet.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-carpet-sm.jpg",
+  "w": 304,
+  "h": 304,
+  "alt": "Material — green patterned carpet"
+ },
+ "p07_x2730_240x400.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-panel.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-panel-sm.jpg",
+  "w": 240,
+  "h": 400,
+  "alt": "Material — textured green acoustic panel"
+ },
+ "p07_x2736_130x145.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/mat-mint.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/mat-mint-sm.jpg",
+  "w": 130,
+  "h": 145,
+  "alt": "Colour — pale mint green"
+ },
+ "p08_x2779_1547x103.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/plan-diagram.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/plan-diagram-sm.jpg",
+  "w": 1547,
+  "h": 103,
+  "alt": "Spatial organisation diagram — public to private gradient"
+ },
+ "p08_x4259_1452x524.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/plan-main.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/plan-main-sm.jpg",
+  "w": 1452,
+  "h": 524,
+  "alt": "Floor plan — Le Refuge Intellectuel"
+ },
+ "p08_x4254_910x349.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/plan-2.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/plan-2-sm.jpg",
+  "w": 910,
+  "h": 349,
+  "alt": "Floor plan detail — Le Refuge Intellectuel"
+ },
+ "p09_x1948_1489x1053.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/tech-sheet.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/tech-sheet-sm.jpg",
+  "w": 1489,
+  "h": 1053,
+  "alt": "Technical plans sheet — floor finishes and joinery"
+ },
+ "p09_x4399_960x342.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/tech-doors.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/tech-doors-sm.jpg",
+  "w": 960,
+  "h": 342,
+  "alt": "Door types and elevations detail"
+ },
+ "p09_x2818_628x547.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/tech-door.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/tech-door-sm.jpg",
+  "w": 628,
+  "h": 547,
+  "alt": "Double door with glazed side panels — elevation"
+ },
+ "p05_x2680_1107x780.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/card.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/card-sm.jpg",
+  "w": 1107,
+  "h": 780,
+  "alt": "Le Refuge Intellectuel coworking — warm lounge view"
+ },
+ "p13_x3002_1344x756.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/01-hero.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/01-hero-sm.jpg",
+  "w": 1344,
+  "h": 756,
+  "alt": "Sahara Marbre showroom — main hall with marble feature wall"
+ },
+ "p15_x3083_512x361.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/03-marble.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/03-marble-sm.jpg",
+  "w": 512,
+  "h": 361,
+  "alt": "Marble display column with black shelving"
+ },
+ "p15_x3086_768x541.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/04-glass.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/04-glass-sm.jpg",
+  "w": 768,
+  "h": 541,
+  "alt": "View through glass partition into the showroom"
+ },
+ "p15_x3089_1024x722.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/05-lounge.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/05-lounge-sm.jpg",
+  "w": 1024,
+  "h": 722,
+  "alt": "Lounge corner with sectional sofa and dark marble wall"
+ },
+ "p15_x3092_960x540.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/06-workspace.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/06-workspace-sm.jpg",
+  "w": 960,
+  "h": 540,
+  "alt": "Workspace row along the yellow wall"
+ },
+ "p13_x3005_1152x812.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/07-detail.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/07-detail-sm.jpg",
+  "w": 1152,
+  "h": 812,
+  "alt": "Showroom detail through glass partitions"
+ },
+ "p14_x3071_768x576.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/before.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/before-sm.jpg",
+  "w": 768,
+  "h": 576,
+  "alt": "Before renovation — existing showroom"
+ },
+ "p14_x3074_1152x812.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/after.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/after-sm.jpg",
+  "w": 1152,
+  "h": 812,
+  "alt": "After renovation — marble floor and new displays"
+ },
+ "p14_x3025_1272x1525.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/plan.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/plan-sm.jpg",
+  "w": 1272,
+  "h": 1525,
+  "alt": "Floor plan — Sahara Marbre showroom, Rabat"
+ },
+ "p05_x2683_1188x1188.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/card.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/card-sm.jpg",
+  "w": 1188,
+  "h": 1188,
+  "alt": "Sahara Marbre showroom — console with lamp against textured wall"
+ },
+ "p16_x3096_921x674.jpg": {
+  "src": "assets/projects/spa-hair-salon/01-hero.jpg",
+  "sm": "assets/projects/spa-hair-salon/01-hero-sm.jpg",
+  "w": 921,
+  "h": 674,
+  "alt": "Spa reception — arched backlit wall 'Les Secrets d'Assile' with white sofa"
+ },
+ "p16_x3099_739x533.jpg": {
+  "src": "assets/projects/spa-hair-salon/02-nails.jpg",
+  "sm": "assets/projects/spa-hair-salon/02-nails-sm.jpg",
+  "w": 739,
+  "h": 533,
+  "alt": "Nail salon area with illuminated sign and product shelves"
+ },
+ "p18_x3180_449x316.jpg": {
+  "src": "assets/projects/spa-hair-salon/03-reception.jpg",
+  "sm": "assets/projects/spa-hair-salon/03-reception-sm.jpg",
+  "w": 449,
+  "h": 316,
+  "alt": "Perspective — reception counter with manicure stations"
+ },
+ "p18_x3198_449x316.jpg": {
+  "src": "assets/projects/spa-hair-salon/04-hairdressing.jpg",
+  "sm": "assets/projects/spa-hair-salon/04-hairdressing-sm.jpg",
+  "w": 449,
+  "h": 316,
+  "alt": "Perspective — hairdressing floor with arched mirrors"
+ },
+ "p18_x3207_440x323.jpg": {
+  "src": "assets/projects/spa-hair-salon/05-colorbar.jpg",
+  "sm": "assets/projects/spa-hair-salon/05-colorbar-sm.jpg",
+  "w": 440,
+  "h": 323,
+  "alt": "Perspective — colour bar with green armchairs and backlit niches"
+ },
+ "p18_x3189_434x327.jpg": {
+  "src": "assets/projects/spa-hair-salon/06-greenwall.jpg",
+  "sm": "assets/projects/spa-hair-salon/06-greenwall-sm.jpg",
+  "w": 434,
+  "h": 327,
+  "alt": "Perspective — deep green wall with arched niches and bathrobe"
+ },
+ "p18_x3183_294x215.jpg": {
+  "src": "assets/projects/spa-hair-salon/07-massage.jpg",
+  "sm": "assets/projects/spa-hair-salon/07-massage-sm.jpg",
+  "w": 294,
+  "h": 215,
+  "alt": "Perspective — massage room with two treatment beds"
+ },
+ "p18_x3201_296x214.jpg": {
+  "src": "assets/projects/spa-hair-salon/08-hallway.jpg",
+  "sm": "assets/projects/spa-hair-salon/08-hallway-sm.jpg",
+  "w": 296,
+  "h": 214,
+  "alt": "Perspective — corridor with arched doorways"
+ },
+ "p18_x3204_298x212.jpg": {
+  "src": "assets/projects/spa-hair-salon/09-pedicure.jpg",
+  "sm": "assets/projects/spa-hair-salon/09-pedicure-sm.jpg",
+  "w": 298,
+  "h": 212,
+  "alt": "Perspective — pedicure stations with marble platforms"
+ },
+ "p18_x3192_177x211.jpg": {
+  "src": "assets/projects/spa-hair-salon/10-hammam.jpg",
+  "sm": "assets/projects/spa-hair-salon/10-hammam-sm.jpg",
+  "w": 177,
+  "h": 211,
+  "alt": "Perspective — hammam wash area with green mosaic tiles"
+ },
+ "p18_x3186_288x204.jpg": {
+  "src": "assets/projects/spa-hair-salon/11-vanity.jpg",
+  "sm": "assets/projects/spa-hair-salon/11-vanity-sm.jpg",
+  "w": 288,
+  "h": 204,
+  "alt": "Perspective — vanity and makeup area"
+ },
+ "p18_x3195_290x217.jpg": {
+  "src": "assets/projects/spa-hair-salon/12-detail.jpg",
+  "sm": "assets/projects/spa-hair-salon/12-detail-sm.jpg",
+  "w": 290,
+  "h": 217,
+  "alt": "Perspective — treatment bed detail with backlit shelves"
+ },
+ "p17_x3107_2200x1400.jpg": {
+  "src": "assets/projects/spa-hair-salon/plan.jpg",
+  "sm": "assets/projects/spa-hair-salon/plan-sm.jpg",
+  "w": 1800,
+  "h": 1145,
+  "alt": "Floor plan — spa and hair salon, seven functional areas"
+ },
+ "p05_x2686_921x674.jpg": {
+  "src": "assets/projects/spa-hair-salon/card.jpg",
+  "sm": "assets/projects/spa-hair-salon/card-sm.jpg",
+  "w": 921,
+  "h": 674,
+  "alt": "Spa — curved backlit sofa in the lounge"
+ },
+ "p21_x3226_1056x744.jpg": {
+  "src": "assets/projects/console-vena/01-hero.jpg",
+  "sm": "assets/projects/console-vena/01-hero-sm.jpg",
+  "w": 1056,
+  "h": 744,
+  "alt": "Console Vena — laminated glass and polished brass console in an entryway"
+ },
+ "p21_x3229_660x495.jpg": {
+  "src": "assets/projects/console-vena/02-sunlit.jpg",
+  "sm": "assets/projects/console-vena/02-sunlit-sm.jpg",
+  "w": 660,
+  "h": 495,
+  "alt": "Console Vena — sunlit side view by the glass doors"
+ },
+ "p23_x2102_660x465.jpg": {
+  "src": "assets/projects/console-vena/03-mirror.jpg",
+  "sm": "assets/projects/console-vena/03-mirror-sm.jpg",
+  "w": 660,
+  "h": 465,
+  "alt": "Console Vena — side view under a wall mirror"
+ },
+ "p23_x2103_792x594.jpg": {
+  "src": "assets/projects/console-vena/04-light.jpg",
+  "sm": "assets/projects/console-vena/04-light-sm.jpg",
+  "w": 792,
+  "h": 594,
+  "alt": "Console Vena — profile view with sunlight and brass legs"
+ },
+ "p23_x3286_924x693.jpg": {
+  "src": "assets/projects/console-vena/05-insitu.jpg",
+  "sm": "assets/projects/console-vena/05-insitu-sm.jpg",
+  "w": 924,
+  "h": 693,
+  "alt": "Console Vena — in-situ in a living area"
+ },
+ "p23_x3289_792x558.jpg": {
+  "src": "assets/projects/console-vena/06-hallway.jpg",
+  "sm": "assets/projects/console-vena/06-hallway-sm.jpg",
+  "w": 792,
+  "h": 558,
+  "alt": "Console Vena — hallway with arched doorways"
+ },
+ "p22_x2078_1000x707.jpg": {
+  "src": "assets/projects/console-vena/sk-01.jpg",
+  "sm": "assets/projects/console-vena/sk-01-sm.jpg",
+  "w": 1000,
+  "h": 707,
+  "alt": "Concept sketch — Console Vena"
+ },
+ "p22_x2075_800x566.jpg": {
+  "src": "assets/projects/console-vena/sk-02.jpg",
+  "sm": "assets/projects/console-vena/sk-02-sm.jpg",
+  "w": 800,
+  "h": 566,
+  "alt": "Sketch — wing structure study"
+ },
+ "p22_x2077_800x566.jpg": {
+  "src": "assets/projects/console-vena/sk-03.jpg",
+  "sm": "assets/projects/console-vena/sk-03-sm.jpg",
+  "w": 800,
+  "h": 566,
+  "alt": "Sketch — morphological sheet"
+ },
+ "p22_x2074_869x290.jpg": {
+  "src": "assets/projects/console-vena/sk-04.jpg",
+  "sm": "assets/projects/console-vena/sk-04-sm.jpg",
+  "w": 869,
+  "h": 290,
+  "alt": "Sketch — plan and elevation"
+ },
+ "p22_x2076_600x425.jpg": {
+  "src": "assets/projects/console-vena/sk-05.jpg",
+  "sm": "assets/projects/console-vena/sk-05-sm.jpg",
+  "w": 600,
+  "h": 425,
+  "alt": "Technical detail — brass foot"
+ },
+ "p22_x2079_528x396.jpg": {
+  "src": "assets/projects/console-vena/sk-06.jpg",
+  "sm": "assets/projects/console-vena/sk-06-sm.jpg",
+  "w": 528,
+  "h": 396,
+  "alt": "Technical detail — glass edge"
+ },
+ "p22_x3250_396x297.jpg": {
+  "src": "assets/projects/console-vena/sk-07.jpg",
+  "sm": "assets/projects/console-vena/sk-07-sm.jpg",
+  "w": 396,
+  "h": 297,
+  "alt": "Material sample — tempered glass"
+ },
+ "p22_x3258_396x297.jpg": {
+  "src": "assets/projects/console-vena/sk-08.jpg",
+  "sm": "assets/projects/console-vena/sk-08-sm.jpg",
+  "w": 396,
+  "h": 297,
+  "alt": "Material sample — polished brass C260"
+ },
+ "p22_x2087_143x143.jpg": {
+  "src": "assets/projects/console-vena/mat-glass.jpg",
+  "sm": "assets/projects/console-vena/mat-glass-sm.jpg",
+  "w": 143,
+  "h": 143,
+  "alt": "Laminated tempered glass swatch"
+ },
+ "p22_x2088_143x143.jpg": {
+  "src": "assets/projects/console-vena/mat-brass.jpg",
+  "sm": "assets/projects/console-vena/mat-brass-sm.jpg",
+  "w": 143,
+  "h": 143,
+  "alt": "Polished brass swatch"
+ },
+ "p20_x3214_1188x1188.jpg": {
+  "src": "assets/projects/console-vena/card.jpg",
+  "sm": "assets/projects/console-vena/card-sm.jpg",
+  "w": 1188,
+  "h": 1188,
+  "alt": "Console Vena — marble top console against backlit textured wall"
+ },
+ "p24_x3294_1016x759.jpg": {
+  "src": "assets/projects/mobilier-coworking/01-hero.jpg",
+  "sm": "assets/projects/mobilier-coworking/01-hero-sm.jpg",
+  "w": 1016,
+  "h": 759,
+  "alt": "Coworking furniture — green semi-circular collaborative desk with stepped seating"
+ },
+ "p24_x3297_747x527.jpg": {
+  "src": "assets/projects/mobilier-coworking/02-islands.jpg",
+  "sm": "assets/projects/mobilier-coworking/02-islands-sm.jpg",
+  "w": 747,
+  "h": 527,
+  "alt": "Private work islands with curved white screens"
+ },
+ "p25_x3302_528x372.jpg": {
+  "src": "assets/projects/mobilier-coworking/03-pod.jpg",
+  "sm": "assets/projects/mobilier-coworking/03-pod-sm.jpg",
+  "w": 528,
+  "h": 372,
+  "alt": "Îlot privé de travail — private work pod render"
+ },
+ "p25_x5399_396x279.jpg": {
+  "src": "assets/projects/mobilier-coworking/04-table.jpg",
+  "sm": "assets/projects/mobilier-coworking/04-table-sm.jpg",
+  "w": 396,
+  "h": 279,
+  "alt": "Modular table with green upholstery"
+ },
+ "p25_x5402_396x279.jpg": {
+  "src": "assets/projects/mobilier-coworking/05-desks.jpg",
+  "sm": "assets/projects/mobilier-coworking/05-desks-sm.jpg",
+  "w": 396,
+  "h": 279,
+  "alt": "Collective desk with four chairs"
+ },
+ "p25_x5405_396x279.jpg": {
+  "src": "assets/projects/mobilier-coworking/06-bench.jpg",
+  "sm": "assets/projects/mobilier-coworking/06-bench-sm.jpg",
+  "w": 396,
+  "h": 279,
+  "alt": "Bench with green upholstery and walnut backrest"
+ },
+ "p26_x5983_696x362.jpg": {
+  "src": "assets/projects/mobilier-coworking/07-office.jpg",
+  "sm": "assets/projects/mobilier-coworking/07-office-sm.jpg",
+  "w": 696,
+  "h": 362,
+  "alt": "Furniture in context — open coworking floor"
+ },
+ "p26_x5980_897x632.jpg": {
+  "src": "assets/projects/mobilier-coworking/08-curved.jpg",
+  "sm": "assets/projects/mobilier-coworking/08-curved-sm.jpg",
+  "w": 897,
+  "h": 632,
+  "alt": "Curved collaborative seating with round table"
+ },
+ "p26_x6067_299x211.jpg": {
+  "src": "assets/projects/mobilier-coworking/09-lounge.jpg",
+  "sm": "assets/projects/mobilier-coworking/09-lounge-sm.jpg",
+  "w": 299,
+  "h": 211,
+  "alt": "Lounge table and bench"
+ },
+ "p25_x3514_1078x238.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-elev1.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-elev1-sm.jpg",
+  "w": 1078,
+  "h": 238,
+  "alt": "Side elevation — work pod"
+ },
+ "p25_x3517_1081x219.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-elev2.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-elev2-sm.jpg",
+  "w": 1081,
+  "h": 219,
+  "alt": "Side elevation detail — work pod"
+ },
+ "p25_x4901_455x175.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-plan1.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-plan1-sm.jpg",
+  "w": 455,
+  "h": 175,
+  "alt": "Plan view — work pod"
+ },
+ "p26_x6074_455x175.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-plan2.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-plan2-sm.jpg",
+  "w": 455,
+  "h": 175,
+  "alt": "Plan view — collective desks"
+ },
+ "p26_x6521_762x558.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-section.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-section-sm.jpg",
+  "w": 762,
+  "h": 558,
+  "alt": "Section — stepped seating"
+ },
+ "p25_x3305_413x331.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-top.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-top-sm.jpg",
+  "w": 413,
+  "h": 331,
+  "alt": "Top view — work pod"
+ },
+ "p25_x3315_384x325.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-front.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-front-sm.jpg",
+  "w": 384,
+  "h": 325,
+  "alt": "Front view — work pod"
+ },
+ "p25_x3310_431x353.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-side.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-side-sm.jpg",
+  "w": 431,
+  "h": 353,
+  "alt": "Side view — work pod"
+ },
+ "p20_x3217_1306x976.jpg": {
+  "src": "assets/projects/mobilier-coworking/card.jpg",
+  "sm": "assets/projects/mobilier-coworking/card-sm.jpg",
+  "w": 1306,
+  "h": 976,
+  "alt": "Coworking furniture — long counter with green tiling, city view"
+ },
+ "p27_x4108_1188x1188.jpg": {
+  "src": "assets/projects/le-refuge/01-hero.jpg",
+  "sm": "assets/projects/le-refuge/01-hero-sm.jpg",
+  "w": 1188,
+  "h": 1188,
+  "alt": "Refuge — multifunctional furniture unit in a bedroom-office"
+ },
+ "p27_x4111_660x660.jpg": {
+  "src": "assets/projects/le-refuge/02-desk.jpg",
+  "sm": "assets/projects/le-refuge/02-desk-sm.jpg",
+  "w": 660,
+  "h": 660,
+  "alt": "Refuge — desk configuration detail"
+ },
+ "p28_x4133_792x558.jpg": {
+  "src": "assets/projects/le-refuge/03-built-desk.jpg",
+  "sm": "assets/projects/le-refuge/03-built-desk-sm.jpg",
+  "w": 792,
+  "h": 558,
+  "alt": "Refuge — built piece in desk configuration"
+ },
+ "p28_x4136_852x594.jpg": {
+  "src": "assets/projects/le-refuge/04-built-bed.jpg",
+  "sm": "assets/projects/le-refuge/04-built-bed-sm.jpg",
+  "w": 852,
+  "h": 594,
+  "alt": "Refuge — built piece in rest configuration"
+ },
+ "p28_x4121_768x432.jpg": {
+  "src": "assets/projects/le-refuge/05-render1.jpg",
+  "sm": "assets/projects/le-refuge/05-render1-sm.jpg",
+  "w": 768,
+  "h": 432,
+  "alt": "Refuge — 3D view 1"
+ },
+ "p28_x4123_768x432.jpg": {
+  "src": "assets/projects/le-refuge/06-render2.jpg",
+  "sm": "assets/projects/le-refuge/06-render2-sm.jpg",
+  "w": 768,
+  "h": 432,
+  "alt": "Refuge — 3D view 2"
+ },
+ "p28_x4127_768x432.jpg": {
+  "src": "assets/projects/le-refuge/07-render3.jpg",
+  "sm": "assets/projects/le-refuge/07-render3-sm.jpg",
+  "w": 768,
+  "h": 432,
+  "alt": "Refuge — 3D view 3"
+ },
+ "p28_x4129_768x432.jpg": {
+  "src": "assets/projects/le-refuge/08-render4.jpg",
+  "sm": "assets/projects/le-refuge/08-render4-sm.jpg",
+  "w": 768,
+  "h": 432,
+  "alt": "Refuge — 3D view 4"
+ },
+ "p28_x2127_1400x990.jpg": {
+  "src": "assets/projects/le-refuge/sk-01.jpg",
+  "sm": "assets/projects/le-refuge/sk-01-sm.jpg",
+  "w": 1400,
+  "h": 990,
+  "alt": "Hand-drawn sketches — Refuge concept"
+ },
+ "p28_x2128_800x566.jpg": {
+  "src": "assets/projects/le-refuge/sk-02.jpg",
+  "sm": "assets/projects/le-refuge/sk-02-sm.jpg",
+  "w": 800,
+  "h": 566,
+  "alt": "3D sketch — Refuge views"
+ },
+ "p28_x2129_251x156.jpg": {
+  "src": "assets/projects/le-refuge/sk-03.jpg",
+  "sm": "assets/projects/le-refuge/sk-03-sm.jpg",
+  "w": 251,
+  "h": 156,
+  "alt": "Dimensioned view — Refuge"
+ },
+ "p28_x2130_512x215.jpg": {
+  "src": "assets/projects/le-refuge/sk-04.jpg",
+  "sm": "assets/projects/le-refuge/sk-04-sm.jpg",
+  "w": 512,
+  "h": 215,
+  "alt": "Mechanism detail — Refuge"
+ },
+ "p20_x3220_1188x1188.jpg": {
+  "src": "assets/projects/le-refuge/card.jpg",
+  "sm": "assets/projects/le-refuge/card-sm.jpg",
+  "w": 1188,
+  "h": 1188,
+  "alt": "Refuge — curved desk nook with built-in shelving"
+ },
+ "p30_x4143_840x1120.jpg": {
+  "src": "assets/gallery/photo-01.jpg",
+  "sm": "assets/gallery/photo-01-sm.jpg",
+  "w": 840,
+  "h": 1120,
+  "alt": "Urban scene — quiet street with church tower, blue sky"
+ },
+ "p30_x4146_1440x1080.jpg": {
+  "src": "assets/gallery/photo-02.jpg",
+  "sm": "assets/gallery/photo-02-sm.jpg",
+  "w": 1440,
+  "h": 1080,
+  "alt": "Urban art — figures made of utility boxes on a yellow wall"
+ },
+ "p30_x4149_1071x1120.jpg": {
+  "src": "assets/gallery/photo-03.jpg",
+  "sm": "assets/gallery/photo-03-sm.jpg",
+  "w": 1071,
+  "h": 1120,
+  "alt": "Pedestrian street with a canopy of colourful balloons"
+ },
+ "p31_x4154_1440x1080.jpg": {
+  "src": "assets/gallery/photo-04.jpg",
+  "sm": "assets/gallery/photo-04-sm.jpg",
+  "w": 1440,
+  "h": 1080,
+  "alt": "Sagrada Família spires with angel statues against a blue sky"
+ },
+ "p31_x4157_840x1120.jpg": {
+  "src": "assets/gallery/photo-05.jpg",
+  "sm": "assets/gallery/photo-05-sm.jpg",
+  "w": 840,
+  "h": 1120,
+  "alt": "Stone archway facade detail with sculptural relief"
+ },
+ "p31_x4160_1440x1080.jpg": {
+  "src": "assets/gallery/photo-06.jpg",
+  "sm": "assets/gallery/photo-06-sm.jpg",
+  "w": 1440,
+  "h": 1080,
+  "alt": "Spire finials — star of Bethlehem against the sky"
+ },
+ "p32_x4165_562x756.jpg": {
+  "src": "assets/gallery/sketch-01.jpg",
+  "sm": "assets/gallery/sketch-01-sm.jpg",
+  "w": 562,
+  "h": 756,
+  "alt": "Sketch — organic leaf study"
+ },
+ "p32_x4168_423x458.jpg": {
+  "src": "assets/gallery/sketch-02.jpg",
+  "sm": "assets/gallery/sketch-02-sm.jpg",
+  "w": 423,
+  "h": 458,
+  "alt": "Sketch — botanical form study"
+ },
+ "p32_x4171_529x770.jpg": {
+  "src": "assets/gallery/sketch-03.jpg",
+  "sm": "assets/gallery/sketch-03-sm.jpg",
+  "w": 529,
+  "h": 770,
+  "alt": "Sketch — flowing plant gesture"
+ },
+ "p33_x4176_517x784.jpg": {
+  "src": "assets/gallery/sketch-04.jpg",
+  "sm": "assets/gallery/sketch-04-sm.jpg",
+  "w": 517,
+  "h": 784,
+  "alt": "Sketch — birds in flight"
+ },
+ "p33_x4179_542x637.jpg": {
+  "src": "assets/gallery/sketch-05.jpg",
+  "sm": "assets/gallery/sketch-05-sm.jpg",
+  "w": 542,
+  "h": 637,
+  "alt": "Sketch — urban street scene with wash"
+ },
+ "p33_x4182_630x635.jpg": {
+  "src": "assets/gallery/sketch-06.jpg",
+  "sm": "assets/gallery/sketch-06-sm.jpg",
+  "w": 630,
+  "h": 635,
+  "alt": "Sketch — landscape with pointillist technique"
+ },
+ "p06_x2695_665x468.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/v01-rendu-bibliotheque.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/v01-rendu-bibliotheque-sm.jpg",
+  "w": 665,
+  "h": 468,
+  "alt": "Vue d'ensemble — bibliothèque et éclairages linéaires"
+ },
+ "p06_x2698_665x468.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/v02-rendu-espace-travail.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/v02-rendu-espace-travail-sm.jpg",
+  "w": 665,
+  "h": 468,
+  "alt": "Plan de travail continu sous éclairage suspendu"
+ },
+ "p07_x1921_256x320.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m11-livres-verts.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m11-livres-verts-sm.jpg",
+  "w": 256,
+  "h": 320,
+  "alt": "Mood — livres verts à tranche dorée"
+ },
+ "p07_x1923_168x180.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m12-livre-isole.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m12-livre-isole-sm.jpg",
+  "w": 168,
+  "h": 180,
+  "alt": "Mood — livre isolé, tranche sur fond sombre"
+ },
+ "p07_x1928_318x318.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m13-cibles.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m13-cibles-sm.jpg",
+  "w": 318,
+  "h": 318,
+  "alt": "Mood — bougies en céramique, motif zèbre"
+ },
+ "p07_x2724_162x240.jpg": {
+  "src": "assets/projects/le-refuge-intellectuel/m14-bibliotheque-plantes.jpg",
+  "sm": "assets/projects/le-refuge-intellectuel/m14-bibliotheque-plantes-sm.jpg",
+  "w": 162,
+  "h": 240,
+  "alt": "Mood — bibliothèque blanche et plantes"
+ },
+ "p14_x3014_119x119.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-cheminee.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-cheminee-sm.jpg",
+  "w": 119,
+  "h": 119,
+  "alt": "Cheminée en marbre — Blanc Ibiza"
+ },
+ "p14_x3018_110x110.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-attente.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-attente-sm.jpg",
+  "w": 110,
+  "h": 110,
+  "alt": "Espace d'attente"
+ },
+ "p14_x3020_161x194.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-vasque.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-vasque-sm.jpg",
+  "w": 161,
+  "h": 194,
+  "alt": "Mise en scène du vasque en marbre"
+ },
+ "p14_x3021_128x128.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-fontaine.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-fontaine-sm.jpg",
+  "w": 128,
+  "h": 128,
+  "alt": "Fontaine en marbre — crème marfil"
+ },
+ "p14_x3017_103x103.jpg": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-presentoir.jpg",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-presentoir-sm.jpg",
+  "w": 103,
+  "h": 103,
+  "alt": "Présentoir à roulettes d'échantillons"
+ },
+ "p22_x3245_308x217.jpg": {
+  "src": "assets/projects/console-vena/sk-09-nervures.jpg",
+  "sm": "assets/projects/console-vena/sk-09-nervures-sm.jpg",
+  "w": 308,
+  "h": 217,
+  "alt": "Détail — nervures en laiton massif C260"
+ },
+ "p25_x4891_222x156.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-ilot-face.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-ilot-face-sm.jpg",
+  "w": 222,
+  "h": 156,
+  "alt": "Îlot privé — vue de face"
+ },
+ "p25_x4894_222x156.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-ilot-cote.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-ilot-cote-sm.jpg",
+  "w": 222,
+  "h": 156,
+  "alt": "Îlot privé — vue de côté"
+ },
+ "p25_x4897_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-ilot-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-ilot-plan-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Îlot privé — vue de plan"
+ },
+ "p25_x3494_181x178.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-a-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-a-plan-sm.jpg",
+  "w": 181,
+  "h": 178,
+  "alt": "Table translucide — plan 0,60 × 1,40"
+ },
+ "p25_x3495_188x200.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-b-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-b-plan-sm.jpg",
+  "w": 188,
+  "h": 200,
+  "alt": "Table translucide — plan 0,60 × 1,40, variante"
+ },
+ "p25_x3500_238x231.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-c-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-c-plan-sm.jpg",
+  "w": 238,
+  "h": 231,
+  "alt": "Table translucide — plan 1,20 × 0,60"
+ },
+ "p25_x3501_234x172.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-a-elev.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-a-elev-sm.jpg",
+  "w": 234,
+  "h": 172,
+  "alt": "Table translucide — élévation 1,20"
+ },
+ "p25_x3508_269x147.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-b-elev.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-b-elev-sm.jpg",
+  "w": 269,
+  "h": 147,
+  "alt": "Table translucide — élévation 1,40"
+ },
+ "p25_x3509_259x166.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-table-c-elev.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-table-c-elev-sm.jpg",
+  "w": 259,
+  "h": 166,
+  "alt": "Table translucide — élévation 0,75"
+ },
+ "p25_x5471_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/r-table-basse.jpg",
+  "sm": "assets/projects/mobilier-coworking/r-table-basse-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Table basse — piètement laiton"
+ },
+ "p25_x5474_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/r-banquette.jpg",
+  "sm": "assets/projects/mobilier-coworking/r-banquette-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Banquette — piètement bois clair"
+ },
+ "p25_x5477_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/r-banquette-longue.jpg",
+  "sm": "assets/projects/mobilier-coworking/r-banquette-longue-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Banquette longue — assise vert olive"
+ },
+ "p25_x5480_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/r-table-appoint.jpg",
+  "sm": "assets/projects/mobilier-coworking/r-table-appoint-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Table d'appoint — piètement laiton"
+ },
+ "p25_x4885_160x160.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-textile-sa.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-textile-sa-sm.jpg",
+  "w": 160,
+  "h": 160,
+  "alt": "Textile acoustique vert sauge"
+ },
+ "p25_x7342_342x342.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-noyer.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-noyer-sm.jpg",
+  "w": 342,
+  "h": 342,
+  "alt": "Plaque de placage noyer"
+ },
+ "p25_x4852_240x240.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-enduit.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-enduit-sm.jpg",
+  "w": 240,
+  "h": 240,
+  "alt": "Enduit lissé beige"
+ },
+ "p25_x5396_160x160.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-microciment.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-microciment-sm.jpg",
+  "w": 160,
+  "h": 160,
+  "alt": "Microciment vert olive mat"
+ },
+ "p26_x3693_491x313.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-bureaux-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-bureaux-plan-sm.jpg",
+  "w": 491,
+  "h": 313,
+  "alt": "Bureaux collectifs — vue de plan"
+ },
+ "p26_x3700_431x194.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-bureaux-plan-2.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-bureaux-plan-2-sm.jpg",
+  "w": 431,
+  "h": 194,
+  "alt": "Bureaux collectifs — vue de plan, 2,99 m"
+ },
+ "p26_x6725_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-collectif-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-collectif-plan-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Table collective — vue de plan"
+ },
+ "p26_x6728_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-collectif-face.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-collectif-face-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Table collective — vue de face"
+ },
+ "p26_x6731_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-collectif-cote.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-collectif-cote-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Table collective — vue de côté"
+ },
+ "p26_x3889_422x306.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-gradins-plan.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-gradins-plan-sm.jpg",
+  "w": 422,
+  "h": 306,
+  "alt": "Gradins — plan coté, 7,63 m"
+ },
+ "p26_x3919_406x278.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-gradins-face.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-gradins-face-sm.jpg",
+  "w": 406,
+  "h": 278,
+  "alt": "Gradins — vue de face"
+ },
+ "p26_x3931_297x231.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-gradins-detail.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-gradins-detail-sm.jpg",
+  "w": 297,
+  "h": 231,
+  "alt": "Gradins — détail de nez de marche"
+ },
+ "p26_x6064_300x211.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-gradins-face-2.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-gradins-face-2-sm.jpg",
+  "w": 300,
+  "h": 211,
+  "alt": "Gradins — vue de face, 0,50 × 0,70"
+ },
+ "p26_x6070_264x186.jpg": {
+  "src": "assets/projects/mobilier-coworking/t-gradins-face-3.jpg",
+  "sm": "assets/projects/mobilier-coworking/t-gradins-face-3-sm.jpg",
+  "w": 264,
+  "h": 186,
+  "alt": "Gradins — vue de face"
+ },
+ "p26_x6055_240x240.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-velour.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-velour-sm.jpg",
+  "w": 240,
+  "h": 240,
+  "alt": "Velour vert olive"
+ },
+ "p26_x7371_342x342.jpg": {
+  "src": "assets/projects/mobilier-coworking/mat-gerflex.jpg",
+  "sm": "assets/projects/mobilier-coworking/mat-gerflex-sm.jpg",
+  "w": 342,
+  "h": 342,
+  "alt": "Gerflex finition noyer"
+ },
+ "p14_x3018_110x110.jpg__cut": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-attente.png",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-attente.png",
+  "w": 440,
+  "h": 440,
+  "alt": "Espace d'attente"
+ },
+ "p14_x3021_128x128.jpg__cut": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-fontaine.png",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-fontaine.png",
+  "w": 512,
+  "h": 512,
+  "alt": "Fontaine en marbre — crème marfil"
+ },
+ "p14_x3017_103x103.jpg__cut": {
+  "src": "assets/projects/showroom-sahara-marbre/cat-presentoir.png",
+  "sm": "assets/projects/showroom-sahara-marbre/cat-presentoir.png",
+  "w": 412,
+  "h": 412,
+  "alt": "Présentoir à roulettes d'échantillons"
+ }
+}

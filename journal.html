@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Journal — Photographies &amp; croquis | Aya Laarej</title>
+<meta name="description" content="Journal visuel d’Aya Laarej — photographies d’architecture et croquis à la main, depuis Rabat, Salé et en voyage.">
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Aya Laarej — Architecture d'intérieur & Design de mobilier">
+<meta property="og:title" content="Journal — Photographies &amp; croquis | Aya Laarej">
+<meta property="og:description" content="Journal visuel d’Aya Laarej — photographies d’architecture et croquis à la main, depuis Rabat, Salé et en voyage.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/nav.css">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/pages.css">
+<link rel="stylesheet" href="css/project.css">
+<script>document.documentElement.classList.add('js');</script>
+<script src="vendor/gsap.min.js" defer></script>
+<script src="vendor/ScrollTrigger.min.js" defer></script>
+<script src="vendor/lenis.min.js" defer></script>
+<script src="js/core.js" defer></script>
+<script src="js/interactions.js" defer></script>
+</head>
+<body>
+<div class="preloader" aria-hidden="true">
+  <div class="pl-inner">
+    <div class="pl-name"><span>A</span><span>Y</span><span>A</span><span>&nbsp;</span><span>L</span><span>A</span><span>A</span><span>R</span><span>E</span><span>J</span></div>
+    <div class="pl-sub">Architecture d'intérieur &amp; design de mobilier</div>
+  </div>
+  <div class="pl-count">000</div>
+</div>
+<div class="page-wipe" aria-hidden="true"></div>
+<div class="cursor" aria-hidden="true"><div class="cursor-dot"></div><div class="cursor-ring"><span class="cursor-label">View</span></div></div>
+
+<header class="nav" id="nav">
+  <div class="nav-inner">
+    <a class="nav-brand" href="index.html" data-pt>AYA LAAREJ<sup>&reg;</sup></a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html#projets" data-pt>Projets</a>
+      <a href="a-propos.html" data-pt>À propos</a>
+      <a href="journal.html" data-pt class="active">Journal</a>
+      <a href="index.html#contact" data-pt>Contact</a>
+    </nav>
+    <div class="nav-right">
+      <span class="nav-loc">Rabat–Salé, Maroc</span>
+      <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="menu-overlay" id="menuOverlay">
+  <nav class="menu-links" aria-label="Menu">
+    <a class="menu-link" href="index.html" data-pt><span class="menu-idx">01</span><span class="menu-txt">Accueil</span></a>
+    <a class="menu-link" href="index.html#projets" data-pt><span class="menu-idx">02</span><span class="menu-txt">Projets</span></a>
+    <a class="menu-link" href="a-propos.html" data-pt><span class="menu-idx">03</span><span class="menu-txt">À propos</span></a>
+    <a class="menu-link" href="journal.html" data-pt><span class="menu-idx">04</span><span class="menu-txt">Journal</span></a>
+    <a class="menu-link" href="index.html#contact" data-pt><span class="menu-idx">05</span><span class="menu-txt">Contact</span></a>
+  </nav>
+  <div class="menu-foot">
+    <a href="mailto:aya.laarej.05@icloud.com">aya.laarej.05@icloud.com</a>
+    <a href="https://www.linkedin.com/in/aya-laarej" target="_blank" rel="noopener">LinkedIn</a>
+    <span>Rabat–Salé, Maroc</span>
+  </div>
+</div>
+
+<main id="main">
+
+<section class="page-hero container">
+  <p class="sec-label rv">02 — Journal visuel</p>
+  <h1 class="page-title">
+    <span class="hline"><span class="hline-in">Photographies</span></span>
+    <span class="hline"><span class="hline-in">&amp; <em>croquis</em></span></span>
+  </h1>
+  <p class="page-lead rv">Un journal visuel au-delà des projets clients — photographies d’architecture et études dessinées à la main, récoltées à Rabat, Salé et en voyage. Cliquez sur une image pour la voir en plein écran.</p>
+</section>
+<section class="section" style="padding-top:0"><div class="container">
+  <div class="sec-head rv">
+    <p class="sec-label">Index — 12 œuvres</p>
+    <div class="filters" data-filter-group=".masonry" role="group" aria-label="Filter journal">
+      <button class="filter active" data-filter="all">Tous</button>
+      <button class="filter" data-filter="photo">Photographies</button>
+      <button class="filter" data-filter="sketch">Croquis</button>
+    </div>
+  </div>
+  <div class="masonry">
+    <blockquote class="m-quote rv" data-type="photo">«&nbsp;À travers ces scènes urbaines, j’explore la relation entre architecture, couleur et quotidien, en capturant les détails et les atmosphères qui donnent vie aux espaces.&nbsp;»</blockquote>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:840/1120" data-full="assets/gallery/photo-01.jpg" data-cap="Scène urbaine — rue et clocher" data-cursor="view" aria-label="Enlarge: Scène urbaine — rue et clocher">
+        <img src="assets/gallery/photo-01-sm.jpg" alt="Scène urbaine — rue et clocher" loading="eager">
+      </button>
+      <figcaption><b>01</b>Scène urbaine — rue et clocher</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:1440/1080" data-full="assets/gallery/photo-02.jpg" data-cap="Mur jaune, trait et couleur" data-cursor="view" aria-label="Enlarge: Mur jaune, trait et couleur">
+        <img src="assets/gallery/photo-02-sm.jpg" alt="Mur jaune, trait et couleur" loading="eager">
+      </button>
+      <figcaption><b>02</b>Mur jaune, trait et couleur</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:1071/1120" data-full="assets/gallery/photo-03.jpg" data-cap="Ballons au-dessus de la vieille ville" data-cursor="view" aria-label="Enlarge: Ballons au-dessus de la vieille ville">
+        <img src="assets/gallery/photo-03-sm.jpg" alt="Ballons au-dessus de la vieille ville" loading="eager">
+      </button>
+      <figcaption><b>03</b>Ballons au-dessus de la vieille ville</figcaption>
+    </figure>
+    <blockquote class="m-quote rv" data-type="photo">«&nbsp;Ces photographies mettent en lumière les détails, les ornements et les jeux de lumière qui révèlent la richesse des formes architecturales.&nbsp;»</blockquote>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:1440/1080" data-full="assets/gallery/photo-04.jpg" data-cap="Sagrada Família — flèches" data-cursor="view" aria-label="Enlarge: Sagrada Família — flèches">
+        <img src="assets/gallery/photo-04-sm.jpg" alt="Sagrada Família — flèches" loading="eager">
+      </button>
+      <figcaption><b>04</b>Sagrada Família — flèches</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:840/1120" data-full="assets/gallery/photo-05.jpg" data-cap="Arche de pierre" data-cursor="view" aria-label="Enlarge: Arche de pierre">
+        <img src="assets/gallery/photo-05-sm.jpg" alt="Arche de pierre" loading="eager">
+      </button>
+      <figcaption><b>05</b>Arche de pierre</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="photo">
+      <button class="lb-item bimg" style="--ar:1440/1080" data-full="assets/gallery/photo-06.jpg" data-cap="Flèche et étoile" data-cursor="view" aria-label="Enlarge: Flèche et étoile">
+        <img src="assets/gallery/photo-06-sm.jpg" alt="Flèche et étoile" loading="eager">
+      </button>
+      <figcaption><b>06</b>Flèche et étoile</figcaption>
+    </figure>
+    <blockquote class="m-quote rv" data-type="sketch">«&nbsp;Inspirées par les formes organiques de la nature, ces études explorent la texture, le mouvement et la délicatesse du geste à travers le dessin.&nbsp;»</blockquote>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:562/756" data-full="assets/gallery/sketch-01.jpg" data-cap="Étude — fleurs et feuillage" data-cursor="view" aria-label="Enlarge: Étude — fleurs et feuillage">
+        <img src="assets/gallery/sketch-01-sm.jpg" alt="Étude — fleurs et feuillage" loading="eager">
+      </button>
+      <figcaption><b>07</b>Étude — fleurs et feuillage</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:423/458" data-full="assets/gallery/sketch-02.jpg" data-cap="Étude — arbre et branches" data-cursor="view" aria-label="Enlarge: Étude — arbre et branches">
+        <img src="assets/gallery/sketch-02-sm.jpg" alt="Étude — arbre et branches" loading="eager">
+      </button>
+      <figcaption><b>08</b>Étude — arbre et branches</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:529/770" data-full="assets/gallery/sketch-03.jpg" data-cap="Étude — fleurs" data-cursor="view" aria-label="Enlarge: Étude — fleurs">
+        <img src="assets/gallery/sketch-03-sm.jpg" alt="Étude — fleurs" loading="eager">
+      </button>
+      <figcaption><b>09</b>Étude — fleurs</figcaption>
+    </figure>
+    <blockquote class="m-quote rv" data-type="sketch">«&nbsp;Entre observation, mouvement et expérimentation graphique, ces croquis traduisent différentes façons d’interpréter le vivant et l’espace par la ligne.&nbsp;»</blockquote>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:517/784" data-full="assets/gallery/sketch-04.jpg" data-cap="Étude — oiseaux en vol" data-cursor="view" aria-label="Enlarge: Étude — oiseaux en vol">
+        <img src="assets/gallery/sketch-04-sm.jpg" alt="Étude — oiseaux en vol" loading="eager">
+      </button>
+      <figcaption><b>10</b>Étude — oiseaux en vol</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:542/637" data-full="assets/gallery/sketch-05.jpg" data-cap="Croquis — rue" data-cursor="view" aria-label="Enlarge: Croquis — rue">
+        <img src="assets/gallery/sketch-05-sm.jpg" alt="Croquis — rue" loading="eager">
+      </button>
+      <figcaption><b>11</b>Croquis — rue</figcaption>
+    </figure>
+    <figure class="m-item rv rv-img" data-type="sketch">
+      <button class="lb-item bimg" style="--ar:630/635" data-full="assets/gallery/sketch-06.jpg" data-cap="Croquis — paysage" data-cursor="view" aria-label="Enlarge: Croquis — paysage">
+        <img src="assets/gallery/sketch-06-sm.jpg" alt="Croquis — paysage" loading="eager">
+      </button>
+      <figcaption><b>12</b>Croquis — paysage</figcaption>
+    </figure>
+  </div>
+</div></section>
+
+<section class="contact" id="contact">
+  <div class="container">
+    <p class="sec-label rv">04 — Contact</p>
+    <h2 class="contact-title rv">Créons quelque chose <em>de sensé</em>.</h2>
+    <div class="contact-rows rv">
+      <a class="contact-row" href="mailto:aya.laarej.05@icloud.com">
+        <span class="c-label">E-mail</span><span class="c-val">aya.laarej.05@icloud.com</span><span class="c-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
+      </a>
+      <a class="contact-row" href="mailto:aya.laarej@etudiant.ecole-artcom.com">
+        <span class="c-label">E-mail étudiant</span><span class="c-val">aya.laarej@etudiant.ecole-artcom.com</span><span class="c-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
+      </a>
+      <a class="contact-row" href="tel:+212764609792">
+        <span class="c-label">Téléphone</span><span class="c-val">+212 7 64 60 97 92</span><span class="c-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
+      </a>
+      <a class="contact-row" href="https://www.linkedin.com/in/aya-laarej" target="_blank" rel="noopener">
+        <span class="c-label">LinkedIn</span><span class="c-val">linkedin.com/in/aya-laarej</span><span class="c-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
+      </a>
+      <div class="contact-row">
+        <span class="c-label">Atelier</span><span class="c-val">Rabat–Salé, Maroc</span><span class="c-arrow"></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span class="f-brand">Aya Laarej</span>
+    <span>Architecture d'intérieur &amp; design de mobilier</span>
+    <span>© 2026 — Rabat–Salé, Maroc</span>
+    <a href="https://www.linkedin.com/in/aya-laarej" target="_blank" rel="noopener">LinkedIn</a>
+  </div>
+</footer>
+
+<button class="to-top" id="toTop" aria-label="Back to top"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="lb-btn lb-close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  <button class="lb-btn lb-prev" aria-label="Previous image"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 19l-7-7 7-7"/></svg></button>
+  <figure class="lb-stage"><img id="lbImg" alt=""><figcaption class="lb-cap" id="lbCap"></figcaption>
+    <div class="lb-planbar" id="lbPlanBar"><button type="button" data-lb-zoom="out" aria-label="Réduire">−</button><span>Zoom</span><button type="button" data-lb-zoom="in" aria-label="Agrandir">+</button><button type="button" data-lb-zoom="fit">Ajuster</button></div>
+  </figure>
+  <button class="lb-btn lb-next" aria-label="Next image"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
+  <div class="lb-count" id="lbCount"></div>
+</div>
+</body>
+</html>
